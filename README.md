@@ -1,5 +1,5 @@
 # Overview
-A basic media player capable of loading and playing MP3 files. The MP3
+A basic media player capable of loading and playing MP3 files made with Qt and C++. The MP3
 player has a graphical user interface with playback controls. Playback controls include
 playing/pausing, seeking, volume control and choosing previous/next MP3. The UI also
 shows a list of available tracks, song name, artist and cover art of the current song. There is

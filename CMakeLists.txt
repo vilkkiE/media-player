@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.0)
+project(mediaplayer)
+include_directories(src)
+add_subdirectory(src)
+add_subdirectory(test)
+include_directories("taglib/taglib/")
+include_directories("${CMAKE_BINARY_DIR}/taglib")
+add_subdirectory(taglib)

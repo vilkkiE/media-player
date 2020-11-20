@@ -6,6 +6,8 @@ shows a list of available tracks, song name, artist and cover art of the current
 a toolbar containing buttons to toggle miniplayer, mute, add songs and reset folder. The UI
 can be seen below.
 
+![alt text](https://github.com/vilkkiE/media-player/blob/main/figure1.jpg "Figure 1")
+
 In addition, we implemented directory browsing, metadata display and miniplayer mode. Currently, the media player supports only MP3 files,
 but it would be fairly easy to expand to other file types as well in the future.
 
